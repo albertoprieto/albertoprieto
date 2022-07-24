@@ -1,8 +1,12 @@
-- 👋 Hi, I’m @albertoprieto
-- 👀 I’m interested in Mobile Development, DevOps, Data Science, AI, Security, Math. 
-- 🌱 I’m currently learning Django, Mobile Development.
+<p>
+  <h3>👋 Hi, I’m @albertoprieto</h3>
+</p>
+<hr>
+
+- 👀 I’m interested in Mobile Development, Scripting, Automation, DevOps.
+- 🌱 I’m currently learning Salesforce, Django, Mobile Development.
 - 💞️ Certified C++, Java, Python, Bash, ABAP, SQL, Kotlin.
-- Aditional ones: Powershell, Progress, Flask/Djnago + MySQL.  
+- Other: Powershell, Progress, Flask/Djnago + MySQL.  
 
 <!---
 albertoprieto/albertoprieto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
