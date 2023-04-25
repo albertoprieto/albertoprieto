@@ -4,7 +4,7 @@
 <hr>
 
 - 👀 I’m interested in Mobile Development, Scripting, Automation, DevOps.
-- 🌱 I’m currently learning Salesforce, Django, Mobile Development.
+- 🌱 I’m currently learning Mobile & Web Development.
 - 💞️ Certified C++, Java, Python, Bash, ABAP, SQL, Kotlin.
 - Other: Powershell, Progress, Flask/Djnago + MySQL.  
 
