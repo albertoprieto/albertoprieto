@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Jose Alberto</h1>
 <h3 align="center">A passionate developer from México</h3>
 
-- 👀 **I’m interested in Mobile Development, Scripting, Automation.**
-- 👨‍💻 Feel free to take a look at my repos there you will find some of my lastest mobile developments.
+- 👀 **I’m interested in Mobile, Web & Desktop Development, Scripting & Automating all over the boring Stuff.**
+- 👨‍💻 Feel free to take a look at my repos there you will find some of my lastest developments eitherway feel free to ask if you´re curious.
 - 📫 How to reach me **alberto.prieto.r@gmail.com**
-
 - 📄 Know about my experiences at my personal webpage
-
-- ⚡ Fun fact **Love Math**
+- ⚡ Fun fact **Mathematics is not about numbers, equations, computations, or algorithms: it is about understanding.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
