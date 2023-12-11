@@ -8,7 +8,9 @@
 - 🌱Other: Powershell, Progress, Flask/Djnago + MySQL.  
 
 <hr>
-:shipit: [!NOTE] :shipit:
+:shipit: 
+[!NOTE] 
+:shipit:
 <br>
 Contact 📧 : <br>
   alberto.prieto.r@gmail.com 👀
