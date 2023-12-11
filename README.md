@@ -1,19 +1,17 @@
 <h1 align="center">Hi 👋, I'm Jose Alberto</h1>
 <h3 align="center">A passionate developer from México</h3>
 
-- 👨‍💻 All of my projects are available at [https://joseprieto.pythonanywhere.com/](https://joseprieto.pythonanywhere.com/)
-
 - 👀 **I’m interested in Mobile Development, Scripting, Automation.**
-
+- 👨‍💻 Feel free to take a look at my repos there you will find some of my lastest mobile developments.
 - 📫 How to reach me **alberto.prieto.r@gmail.com**
 
-- 📄 Know about my experiences [https://joseprieto.pythonanywhere.com/acerca/](https://joseprieto.pythonanywhere.com/acerca/)
+- 📄 Know about my experiences at my personal webpage
 
 - ⚡ Fun fact **Love Math**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/devjap" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="devjap" height="30" width="40" /></a>
+<a href="https://joseprieto.pythonanywhere.com/acerca/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="devjap" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
