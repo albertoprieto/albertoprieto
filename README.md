@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Jose Alberto</h1>
+<h1 align="center">Hi this is Jose Alberto</h1>
 
-- 👀 **Interested in Mobile, Web & Desktop Development, Scripting & Automating all over the boring Stuff.**
+- 👀 **Mobile, Web & Desktop Development, Scripting & Automating all over the boring Stuff.**
 - 👨‍💻 Take a look at my repos there you will find some of my lastest developments eitherway feel free to ask.
 - 📫 Reach me at **alberto.prieto.r@gmail.com**
 
