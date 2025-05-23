@@ -12,9 +12,6 @@
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
   <img src="https://img.shields.io/badge/Kivy-4CAF50?style=for-the-badge&logo=kivy&logoColor=white" alt="Kivy">
 </p>
-<p align="center">
-  While my current workplace uses GitLab, I’m still able to share a tiny bit of my work here.
-</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=albertoprieto&show_icons=true&locale=en&layout=compact&theme=dark" alt="albertoprieto" />
